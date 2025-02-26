@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@remix-run/vercel": "latest",
+    "@vercel/node": "latest"
+    // 移除 @cloudflare/... 相关的依赖
+  }
+}
